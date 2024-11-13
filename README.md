@@ -1,3 +1,5 @@
+WIP STILL IN PROGRESS GOING TO PUSH MORE UPDATES SOON
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
